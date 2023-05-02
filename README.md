@@ -3,7 +3,7 @@ W.I.P
 
 I made this out of boredom.
 
-This project does not import MIDI files, it is hardcoded by hand.
+This project does not import MIDI files, it is just hardcoded.
 
 After the check icon is displayed, pressing the A button will play music.
 
